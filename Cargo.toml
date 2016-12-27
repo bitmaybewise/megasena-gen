@@ -1,0 +1,7 @@
+[package]
+name = "megasena-gen"
+version = "0.1.0"
+authors = ["Hercules Merscher <hlmerscher@gmail.com>"]
+
+[dependencies]
+rand="0.3"
